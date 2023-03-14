@@ -1,0 +1,7 @@
+option,name
+option1,都道府県コード 
+option2,市町村コード
+option3,集計期間（年）
+option4,集計期間（月）
+option5,集計期間（平休日）
+option6,集計期間（時間帯）
