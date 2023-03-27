@@ -20,9 +20,9 @@
 # 利用ライブラリ等
 - 分析結果を表示する地図には[地理院タイル](https://www.gsi.go.jp/kikakuchousei/kikakuchousei40182.html)若しくは[CARTO basemap styles](https://github.com/CartoDB/basemap-styles)を利用しています。
 
-- 世界メッシュコード関連関数(https://www.fttsus.org/worldgrids/ja/our_library/)
-<br>
- 「このライブラリは科学技術振興機構（JST)さきがけ「グローバル・システムの持続可能性評価基盤に関する研究」（[JPMJPR1504](https://projectdb.jst.go.jp/grant/JST-PROJECT-15655008/))およびJST未来社会創造事業「自律分散的世界メッシュ統計基盤アーキテクチャの設計と実証」([JPMJMI20B6](https://projectdb.jst.go.jp/grant/JST-PROJECT-20336716/))の研究成果です。本ライブラリは一般社団法人世界メッシュ研究所から提供されています。」
+- [世界メッシュコード関連関数](https://www.fttsus.org/worldgrids/ja/our_library/)
+ 
+- 「このライブラリは科学技術振興機構（JST)さきがけ「グローバル・システムの持続可能性評価基盤に関する研究」 [JPMJPR1504](https://projectdb.jst.go.jp/grant/JST-PROJECT-15655008/)およびJST未来社会創造事業「自律分散的世界メッシュ統計基盤アーキテクチャの設計と実証」[JPMJMI20B6](https://projectdb.jst.go.jp/grant/JST-PROJECT-20336716/)の研究成果です。本ライブラリは一般社団法人世界メッシュ研究所から提供されています。」
 
 
 - MapLibre(https://maplibre.org/)
