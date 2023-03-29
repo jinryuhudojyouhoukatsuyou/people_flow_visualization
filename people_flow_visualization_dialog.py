@@ -3171,6 +3171,7 @@ class PeopleFlowVisualizationDialog(QtWidgets.QDialog, FORM_CLASS):
             for m in cols:
                 try:
                     value = cross1[m][n]
+                    value = int(value)
                 except:
                     value = 0
 
@@ -3202,6 +3203,7 @@ class PeopleFlowVisualizationDialog(QtWidgets.QDialog, FORM_CLASS):
             for m in cols:
                 try:
                     value = cross2[m][n]
+                    value = int(value)
                 except:
                     value = 0
                 if cnt == 0 :
@@ -3237,6 +3239,7 @@ class PeopleFlowVisualizationDialog(QtWidgets.QDialog, FORM_CLASS):
             for m in cols:
                 try:
                     value = cross3[m][n]
+                    value = float(value)
                 except:
                     value = 0
                 if cnt == 0 :
@@ -3291,6 +3294,7 @@ class PeopleFlowVisualizationDialog(QtWidgets.QDialog, FORM_CLASS):
                     html_cross4 += '<th class="destination">' + str(n) + '</th>'
                 try:
                     value = cross4[m][n]
+                    value = float(value)
                 except:
                     value = 0
                 if m == n :
