@@ -5,16 +5,16 @@
 [general]
 name=MLIT People Flow Visualization Tool
 
-qgisMinimumVersion=3.0
+qgisMinimumVersion=3.28
 description=This plugin visualize people flow
-version=0.1
-author=MLIT
-email=trial@MILT
+version=0.3.1
+author=Ministry of Land, Infrastructure, Transport and Tourism
+email=jinryuhudojyouhoukatsuyou@gmail.com
 
-about=By reading the procured data into this tool according to the procedure and giving the necessary parameters, an output suitable for visualization of the migratory situation will be displayed.
+about=The "MLIT People Flow Visualization Tool" was developed as a prototype in the 2022 People Flow Data Visualization Study conducted by the Information Promotion Division, Real Estate and Construction Economy Bureau, Ministry of Land, Infrastructure, Transport and Tourism. This tool was developed as a prototype to promote the utilization of people flow data, aiming to provide an opportunity for users who have never handled people flow data with GIS or BI tools to start utilizing people flow data. For this reason, we have packaged this tool by focusing on expressions that are often used in visualizing people flow data to make it as easy as possible to visualize.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/jinryuhudojyouhoukatsuyou/people_flow_visualization/issues
+repository=https://github.com/jinryuhudojyouhoukatsuyou/people_flow_visualization
 # End of mandatory metadata
 
 # Recommended items:
@@ -26,7 +26,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=python
 
-homepage=http://homepage
+homepage=https://github.com/jinryuhudojyouhoukatsuyou/people_flow_visualization
 category=Plugins
 icon=icon.png
 # experimental flag
