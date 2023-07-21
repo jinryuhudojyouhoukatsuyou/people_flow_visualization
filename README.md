@@ -27,7 +27,8 @@ For this reason, we have packaged this tool by focusing on expressions that are 
 ### <BR>
 Please refer to [how to use](document/howtouse.pdf) for details on how to use the tool.
 
-
+人流データ可視化ツールに関するご意見・ご質問は以下のメールアドレスより送付願います。
+hqt-mlit-pfvtool@gxb.mlit.go.jp
 
 
 # 利用ライブラリ等/ Use libraries
